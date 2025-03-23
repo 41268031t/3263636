@@ -1,4 +1,4 @@
-# 3263636
+# mechanical perception
 這段程式使用 可變電阻（potentiometer） 控制 LED 亮度，同時監測 光敏電阻（LDR） 和 水銀開關（Mercury Switch），並根據水銀開關的狀態來控制 伺服馬達（Servo Motor） 的角度。以下是逐行解析：
 
 1. 引入函式庫
